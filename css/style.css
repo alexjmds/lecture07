@@ -1,0 +1,29 @@
+ul {
+	list-style: none;
+	font: bold 16px Calibri;
+	float: left;
+}
+
+li {
+	font:12px Calibri;
+}
+
+#methodOne {
+	color: purple;
+}
+
+#methodTwo {
+	color: navi;
+}
+
+#methodThre {
+	color: sienna;
+}
+
+#methodFour {
+	color: darkkhaki;
+}
+
+#methodFive {
+	color: mediumblue;
+}
